@@ -46,3 +46,11 @@ The objective of this project is to develop a sentiment analysis model that accu
 - *NLTK (Natural Language Toolkit):* For text processing and cleaning.
 - *re (Regular Expressions):* For text cleaning and manipulation
 - *seaborn:* Utilized for making statistical graphics that are informative and attractive.
+
+
+
+
+  ![Alt text](![Screenshot 2024-07-16 164606](https://github.com/user-attachments/assets/5958f1d1-7b39-420c-9fb2-034962988970)
+)
+
+
